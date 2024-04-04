@@ -1,7 +1,5 @@
 <h2 align="left">Hi there 👋, I'm Paulo Beckhauser</h2>
-<h3 align="left">A passionate about software and data from Brazil</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left"></p>
 
 <ul>
