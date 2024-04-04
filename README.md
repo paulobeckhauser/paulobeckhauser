@@ -2,9 +2,16 @@
 <h3 align="center">A passionate about software and data from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p align="left"></p>
 
+<ul>
+    <li><a> BS Electrical Engineer</a></li>
+    <li><a> BS Electrical Engineer</a></li>
+    <li><a> 42 Wolfsburg - intra: <strong>pabeckha</strong></a></li>
+</ul>
+
+
+<p align="left"></p>
 
 
 
