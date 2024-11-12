@@ -5,7 +5,7 @@
 <ul>
     <li> ⚡ Bsc Electrical Engineering at UFSC</li>
     <li><a href="https://www.42wolfsburg.de/">42 Wolfsburg</a> - intra: <strong>pabeckha</strong></li>
-    <li> 🤖 Msc Autonomous Systems at DTU /li>
+    <li> 🤖 Msc Autonomous Systems at DTU</li>
     
 </ul>
 
