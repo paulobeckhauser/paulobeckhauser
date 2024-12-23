@@ -2,12 +2,6 @@
 
 <p align="left"></p>
 
-<h2 align="left">As a Master’s student in Autonomous Systems at the Technical University of Denmark (DTU), I have developed a strong foundation in software development, built primarily during my Bachelor’s in Electrical Engineering at Universidade Federal de Santa Caterina (UFSC(, my studies at 42 Wolfsburg, and through personal projects. My academic and professional journey has been enriched by international experiences and professional certifications, which have broadened both my technical and personal expertise.
-
-My passion for technology drives me to consistently seek opportunities to apply my skills to real-world challenges. Through hands-on projects and collaborative environments, I have honed my problem-solving abilities and adaptability, thriving in dynamic settings that encourage innovation and teamwork.
-
-Looking ahead, I am committed to expanding my professional horizons by engaging with diverse projects and leveraging my skills to create impactful solutions. With a proactive approach and dedication to excellence, I am eager to make meaningful contributions to the advancement of technology and innovation on a global scale.
-
 <ul>
     <li> ⚡ Bsc Electrical Engineering at UFSC</li>
     <li><a href="https://www.42wolfsburg.de/">42 Wolfsburg</a> - intra: <strong>pabeckha</strong></li>
